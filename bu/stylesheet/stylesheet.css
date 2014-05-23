@@ -1,0 +1,389 @@
+@charset "utf-8";
+#mainmenuGlobal {
+	background-color: rgba(255,255,255,0.80);
+	height: 80px;
+	width: 100%;
+	position: fixed;
+	clip: rect(auto,auto,auto,auto);
+	padding-top: 20px;
+	z-index: 30;
+}
+#maincontent {
+	padding: 20px;
+	width: 920px;
+	background-color: #FFF;
+	z-index: -1;
+	margin-bottom: 20px;
+	margin-right: px;
+}
+#photoBIG {
+	width: 920px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+#photoBIG2 {
+	width: 920px;
+	margin-top: 20px;
+}
+#mainphoto {
+	background-image: url(../img/furnitures/chairs/373-614_HEE-main.jpg);
+	float: left;
+	height: 614px;
+	width: 453px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.titlepages {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: rgba(0,153,255,1);
+}
+
+
+
+#aac10Main {
+	background-image: url(../img/furnitures/chairs/aac10_main.jpg);
+	height: 580px;
+	width: 453px;
+	float: left;
+}
+#textbox {
+	width: 453px;
+	padding-top: 20px;
+	float: left;
+}
+.MainTitle {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 100px;
+	text-transform: capitalize;
+	color: #000;
+	text-decoration: none;
+}
+.Dimension {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666;
+	text-transform: capitalize;
+}
+.DimensionNumbers {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666;
+}
+.maintext {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+
+
+
+
+
+
+
+body {
+	margin: 0px;
+}
+
+#mainmenuGlobal ul li {
+	list-style-type: none;
+	width: 184px;
+	display: block;
+	float: right;
+	padding-bottom: 0px;
+	text-align: center;
+}
+.space {
+	background-color: rgba(204,204,204,.2);
+	height: 20px;
+	width: 960px;
+	position: absolute;
+	left: 3px;
+	z-index: 10;
+	top: 961px;
+}
+
+
+#global {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	clip: rect(auto,auto,auto,auto);
+	padding-top: 120px;
+}
+#mainmenu {
+	background-repeat: no-repeat;
+	background-position: 20px;
+	height: 60px;
+	width: 940px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	padding-top: 21px;
+	padding-right: 20px;
+}
+#MenuSecondaire {
+	position: absolute;
+	left: 410px;
+	top: 56px;
+}
+#mainmenuGlobal #mainmenu #MenuSecondaire a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #666;
+}
+#j110main {
+	background-color: rgba(255,255,255,1);
+	background-image: url(../img/furnitures/chairs/j110-main.jpg);
+	background-position: center;
+	width: 460px;
+	height: 700px;
+	float: left;
+}
+
+.menu2 {
+	color: #666;
+}
+
+
+#mainmenuGlobal #mainmenu #MenuSecondaire a:hover {
+	color: #000;
+}
+
+#mainmenuGlobal #mainmenu #MenuSecondaire a.onn {
+	color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+#mainmenuGlobal #mainmenu #MenuSecondaire2 a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #666;
+}
+
+#MenuSecondaire2 {
+	position: absolute;
+	left: 248px;
+	top: 55px;
+}
+
+#mainmenuGlobal #mainmenu #MenuSecondaire2 a:hover {
+	color: #000;
+}
+
+#mainmenuGlobal #mainmenu #MenuSecondaire2 a.onn {
+	color: #000;
+}
+
+
+
+
+
+
+
+
+
+#mainmenuGlobal #mainmenu ul li a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	text-decoration: none;
+}
+
+#mainmenuGlobal #mainmenu ul li a:hover {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: rgba(0,153,255,1);
+	text-decoration: none;
+}
+body {
+	background-color: rgba(204,204,204,.2);
+}
+
+
+#mainmenuGlobal #mainmenu ul li a.on {
+	color: rgba(0,153,255,1);
+	
+}
+
+#mainmenuGlobal #mainmenu ul {
+	margin: 0px;
+}
+#dlmmain {
+	width: 460px;
+	float: left;
+}
+#aboutPicture {
+	width: 460px;
+	margin-left: 230px;
+	margin-right: 230px;
+}
+#aboutText {
+	width: 460px;
+	margin-right: 230px;
+	margin-left: 230px;
+	margin-top: 20px;
+}
+
+#menuLogo {
+	background-image: url(../img/logo.gif);
+	background-repeat: no-repeat;
+	height: 60px;
+	width: 140px;
+	position: absolute;
+	left: 20px;
+	top: 0px;
+}
+#award {
+	background-image: url(../img/about/awards.jpg);
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-left: 600px;
+	padding-bottom: px;
+	height: 1288px;
+	width: 300px;
+}
+.awardsDate {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 36px;
+	color: #000000;
+}
+#textfurniture {
+	float: left;
+	width: 460px;
+}
+#photomags {
+	width: 920px;
+}
+#mags-main {
+	width: 460px;
+	float: left;
+}
+
+
+
+#MenuSecondaire3 {
+	position: absolute;
+	left: 597px;
+	top: 57px;
+}
+
+#mainmenuGlobal #mainmenu #MenuSecondaire3 a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #666;
+}
+
+#mainmenuGlobal #mainmenu #MenuSecondaire3 a:hover {
+	color: #000;
+}
+
+#mainmenuGlobal #mainmenu #MenuSecondaire3 a.onn {
+	color: #000;
+}
+#contact1 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+	margin-bottom: 40px;
+}
+
+#contact2 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+	margin-bottom: 40px;
+}
+
+#contact3 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+	margin-bottom: 40px;
+}
+
+#contact4 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+	margin-bottom: 40px;
+}
+#contact5 {
+	float: left;
+	width: 168px;
+	border-top: thin solid #000000;
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+#contact6 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+}
+
+#contact7 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+}
+
+#contact8 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+}
+
+#contact9 {
+	float: left;
+	width: 168px;
+	margin-right: 20px;
+	border-top: thin solid #000000;
+}
+#contact10 {
+	float: left;
+	width: 168px;
+	border-top: thin solid #000000;
+	
+}
+#map1 {
+	float: left;
+	width: 700px;
+}
+
+#textmap1 {
+	width: 180px;
+	padding-left: 20px;
+	float: left;
+}
+#global #maincontent #map1 small a {
+	text-decoration: none;
+}
